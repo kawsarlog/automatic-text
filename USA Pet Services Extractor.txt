@@ -1,0 +1,788 @@
+Total Unique Categories: 785
+========================================
+
+Acupuncture clinic
+Acupuncturist
+Adoption agency
+Adult day care center
+Adult education school
+Advertising agency
+Aged care
+Agricultural service
+Air duct cleaning service
+Airline
+Airport shuttle service
+Allergist
+Alternative medicine practitioner
+Ambulance service
+American restaurant
+Ammunition supplier
+Animal control service
+Animal feed store
+Animal hospital
+Animal park
+Animal protection organization
+Animal rescue service
+Animal shelter
+Animal watering hole
+Animals
+Antique furniture restoration service
+Antique store
+Apartment building
+Apartment complex
+Apartment rental agency
+Appliance store
+Apprenticeship center
+Aquaculture farm
+Aquarium
+Aquarium shop
+Aquatic centre
+Arboretum
+Archery store
+Aromatherapy service
+Aromatherapy supply store
+Art gallery
+Artist
+Artistic handicrafts
+Asian household goods store
+Assisted living facility
+Association / Organization
+Athletic field
+Attorney
+Auto accessories wholesaler
+Auto parts store
+Auto repair shop
+Automotive
+BBQ area
+Baby clothing store
+Baby store
+Bait shop
+Bakery
+Banquet hall
+Bar
+Bar & grill
+Barber shop
+Barber supply store
+Baseball field
+Basketball court
+Bathroom supply store
+Beauty salon
+Beauty school
+Beauty supply store
+Bed & breakfast
+Beer garden
+Beer hall
+Beer store
+Bicycle store
+Bike wash
+Bird control service
+Bird shop
+Bird watching area
+Blinds shop
+Blood testing service
+Boarding house
+Boarding school
+Boat accessories supplier
+Boat rental service
+Boat tour agency
+Body piercing shop
+Bookkeeping service
+Boot store
+Botanical garden
+Boutique
+Brake shop
+Breakfast restaurant
+Brewery
+Building materials store
+Building materials supplier
+Burrito restaurant
+Business administration service
+Business center
+Business management consultant
+Business school
+Business to business service
+Butcher shop
+Butcher shop deli
+Cabinet store
+Cafe
+Cake shop
+Camping store
+Cancer treatment center
+Candy store
+Cannabis store
+Canoe & kayak store
+Car battery store
+Car detailing service
+Car inspection station
+Car rental agency
+Car wash
+Cardiologist
+Carpenter
+Carpet cleaning service
+Carriage ride service
+Cars
+Casket service
+Cat boarding service
+Cat breeder
+Cat trainer
+Caterer
+Catering food and drink supplier
+Catholic church
+Cattery
+Cemetery
+Cemetery"
+Certification agency
+Chapel
+Charity
+Cheese shop
+Chicken hatchery
+Chicken restaurant
+Chicken shop
+Child care agency
+Children's amusement center
+Children's camp
+Children's clothing store
+Children's party service
+Chiropractor
+Christmas store
+Church
+Cigar shop
+City government office
+City park
+Cleaners
+Cleaning service
+Clothing store
+Club
+Cocktail bar
+Coffee shop
+Coffee store
+Coffin supplier
+Comedy club
+Commercial cleaning service
+Commercial photographer
+Community center
+Community garden
+Company
+Computer repair service
+Computer support and services
+Concert hall
+Consultant
+Consumer advice center
+Contractor
+Convenience store
+Cooking class
+Corporate office
+Cosmetics store
+Counselor
+Country park
+County government office
+Courier service
+Craft store
+Cremation service
+Cremation service"
+Cricket ground
+Cultural center
+Cupcake shop
+Customs broker
+Cycling park
+Day care center
+Day spa
+Debris removal service
+Deli
+Delivery Restaurant
+Delivery service
+Dental clinic
+Dental hygienist
+Dental radiology
+Dentist
+Department store
+Dessert restaurant
+Diner
+Disability services and support organization
+Discount store
+Discount supermarket
+Distance learning center
+Distribution service
+District government office
+Do-it-yourself shop
+Doctor
+Dog breeder
+Dog cafe
+Dog care
+Dog day care center
+Dog day care center"
+Dog park
+Dog trainer
+Dog walker
+Dogsled ride service
+Dollar store
+Donations center
+Donut shop
+Door supplier
+Doula
+Driving school
+Drug store
+Dry cleaner
+Dry ice supplier
+E-commerce service
+Economic consultant
+Education
+Education center
+Educational consultant
+Educational institution
+Electrical supply store
+Electrician
+Electronics store
+Emergency care service
+Emergency management ministry
+Emergency veterinarian service
+Employment agency
+Employment attorney
+Engineer
+Engraver
+Entertainer
+Entertainment
+Entertainment and recreation
+Environmental organization
+Equestrian facility
+Equestrian store
+Erotic massage
+Espresso bar
+Estate liquidator
+Estate planning attorney
+Event management company
+Event planner
+Event venue
+Exercise equipment store
+Extended stay hotel
+Facial spa
+Family counselor
+Family planning counselor
+Family practice physician
+Family restaurant
+Farm
+Farm equipment supplier
+Farm shop
+Farmers' market
+Farmstay
+Fashion accessories store
+Fast food restaurant
+Fence contractor
+Fence supply store
+Feng shui consultant
+Fertilizer supplier
+Fish & chips restaurant
+Fish farm
+Fish store
+Fishing store
+Fitness center
+Flea market
+Flooring store
+Florist
+Flower delivery
+Flower designer
+Food manufacturer
+Food manufacturing supply
+Food processing equipment
+Food producer
+Food products supplier
+Foot care
+Football Field
+Foster care service
+Fresh food market
+Frozen dessert supplier
+Frozen food manufacturer
+Frozen food store
+Funeral celebrant service
+Funeral director
+Funeral director"
+Funeral home
+Funeral home"
+Fur service
+Furniture maker
+Furniture manufacturer
+Furniture store
+Gambling house
+Garbage collection service
+Garbage dump service
+Garden
+Garden building supplier
+Garden center
+Garden furniture shop
+Gardener
+Gas station
+General contractor
+General store
+Gift shop
+Gift wrap store
+Glass blower
+Glass manufacturer
+Goldfish store
+Golf course
+Golf shop
+Gourmet grocery store
+Government office
+Granite supplier
+Greengrocer
+Greenhouse
+Greeting card shop
+Grill store
+Grocery delivery service
+Grocery store
+Group accommodation
+Gun shop
+Gutter cleaning service
+Gym
+Hair removal service
+Hair replacement service
+Hair salon
+Hairdresser
+Hamburger restaurant
+Handbags shop
+Handicapped transportation service
+Handyman/Handywoman/Handyperson
+Hardware store
+Hay supplier
+Health and beauty shop
+Health consultant
+Health food store
+Herb shop
+Herbal medicine store
+Hiking area
+Hindu priest
+Historical landmark
+Historical place
+History museum
+Hobby store
+Holiday apartment rental
+Holistic medicine practitioner
+Home cinema installation
+Home goods store
+Home hairdresser
+Home health care service
+Home help
+Home help service agency
+Home improvement store
+Homeopath
+Homestay
+Honey farm
+Horse boarding stable
+Horse breeder
+Horse rental service
+Horse trailer dealer
+Horse trainer
+Horseback riding service
+Horseshoe smith
+Hospice
+Hospital
+Hospital department
+Hot dog restaurant
+Hot dog stand
+Hotel
+House cleaning service
+House sitter
+House sitter agency
+Hunting and fishing store
+Hunting preserve
+Hunting store
+Ice cream shop
+Ice supplier
+Image consultant
+Importer
+Indoor lodging
+Indoor playground
+Indoor swimming pool
+Information services
+Inn
+Insurance
+Insurance agency
+Insurance company
+Interior Decorator
+Interior designer
+Interior plant service
+Internet cafe
+Iron works
+Janitorial service
+Jeweler
+Jewelry designer
+Jewelry store
+Karaoke bar
+Karma dealer
+Kennel
+Key duplication service
+Kitchen supply store
+Korean restaurant
+Laboratory
+Landscape architect
+Landscape designer
+Landscaper
+Landscaping supply store
+Laser cutting service
+Laundromat
+Laundry service
+Lawn care service
+Lawn equipment rental service
+Lawn mower repair service
+Lawn mower store
+Learning center
+Life coach
+Life insurance agency
+Lighting store
+Limousine service
+Lingerie store
+Liquor store
+Live music bar
+Live music venue
+Livestock breeder
+Livestock dealer
+Local medical services
+Locksmith
+Lodge
+Lodging
+Logistics service
+Loss adjuster
+Luggage store
+Lumber store
+Lunch restaurant
+Mailing service
+Manufacturer
+Marine supply store
+Masonry contractor
+Massage school
+Massage spa
+Massage therapist
+Mattress store
+Mausoleum builder
+Meat processor
+Meat products store
+Medical Center
+Medical clinic
+Medical diagnostic imaging center
+Medical examiner
+Medical school
+Medical supply store
+Memorial
+Memorial estate
+Memorial park
+Men's clothing store
+Metaphysical supply store
+Mexican restaurant
+Military cemetery
+Mobile caterer
+Mobile hairdresser
+Mobile home supply store
+Money order service
+Money transfer service
+Monument
+Monument maker
+Mortuary
+Motel
+Mover
+Moving and storage service
+Moving company
+Mulch supplier
+Museum
+Nail salon
+Natural goods store
+Natural history museum
+Nature preserve
+Naturopathic practitioner
+Night club
+Non-profit organization
+Notary public
+Novelty store
+Nursing home
+Nutritionist
+Occupational therapist
+Office supply store
+Oil change service
+Oil store
+Oncologist
+Organic food store
+Organic shop
+Orthodontist
+Orthodox synagogue
+Orthopedic shoe store
+Orthopedic surgeon
+Orthotics & prosthetics service
+Outdoor activity organiser
+Outdoor furniture store
+Outdoor sports store
+Outlet store
+Paint store
+Painter
+Painting
+Pallet supplier
+Park
+Park & ride
+Party equipment rental service
+Party planner
+Party store
+Pasta shop
+Pastry shop
+Pathologist
+Patio enclosure supplier
+Perfume store
+Personal injury attorney
+Personal trainer
+Pest control service
+Pet adoption service
+Pet boarding service
+Pet care
+Pet care service
+Pet cemetery
+Pet cemetery"
+Pet food and animal feeds
+Pet funeral service
+Pet groomer
+Pet moving service
+Pet sitter
+Pet sitter"
+Pet store
+Pet supply store
+Pet trainer
+Pets
+Pharmacy
+Photo lab
+Photographer
+Photography service
+Photography studio
+Physical fitness program
+Physical therapist
+Physical therapy clinic
+Pickleball court
+Picnic ground
+Pizza delivery
+Pizza restaurant
+Place of worship
+Planetarium
+Plant nursery
+Playground
+Playgroup
+Plumbing supply store
+Police department
+Pond contractor
+Pond fish supplier
+Pond supply store
+Pool cleaning service
+Portrait studio
+Post office
+Poultry farm
+Poultry store
+Preschool
+Pressure washing service
+Pretzel store
+Print shop
+Private educational institution
+Private investigator
+Private tutor
+Produce market
+Produce wholesaler
+Professional and hobby associations
+Professional organizer
+Professional services
+Promenade
+Propane supplier
+Property maintenance
+Property management company
+Psychic
+Psychologist
+Pub
+Public bath
+Public beach
+Publisher
+RV park
+RV repair shop
+RV storage facility
+RV supply store
+Radiologist
+Ranch
+Raw food restaurant
+Ready mix concrete supplier
+Real estate attorney
+Recording studio
+Recreation
+Recreation center
+Recreational vehicle rental agency
+Recruiter
+Rehabilitation center
+Reiki therapist
+Religious destination
+Religious institution
+Religious organization
+Repair service
+Reproductive health clinic
+Reptile store
+Research foundation
+Resort hotel
+Rest stop
+Restaurant
+Retail space rental agency
+Retaining wall supplier
+Retirement community
+Retirement home
+Rock
+Rug store
+Sandblasting service
+Sandwich shop
+Sanitation service
+School
+School bus service
+School center
+School supply store
+Screen repair service
+Screen store
+Screw supplier
+Sculpture museum
+Seafood market
+Seafood restaurant
+Seasonal goods store
+Security guard service
+Security service
+Seed supplier
+Self service car wash
+Self service health station
+Self-storage facility
+Service establishment
+Service establishment"
+Sharpening service
+Shed builder
+Shelter
+Shipping service
+Shoe store
+Shopping mall
+Sign shop
+Skin care clinic
+Small engine repair service
+Smoke shop
+Snack bar
+Soccer field
+Social club
+Social services organization
+Sod supplier
+Softball field
+Software company
+Spa
+Special education school
+Spice exporter
+Sporting goods store
+Sports bar
+Sports club
+Sports complex
+Sportswear store
+Stable
+State government office
+Stationery store
+Statuary
+Stone carving
+Store
+Stylist
+Sunglasses store
+Sunroom contractor
+Supermarket
+Surgeon
+Surgical center
+Swim club
+Swimming facility
+Swimming instructor
+Swimming pool
+Swimming pool repair service
+Swimwear store
+T-shirt store
+Tack shop
+Takeout Restaurant
+Tattoo shop
+Taxi service
+Taxidermist
+Tea house
+Tea store
+Technical school
+Teeth whitening service
+Tennis court
+Thrift store
+Tire repair shop
+Tire shop
+Tobacco shop
+Tool rental service
+Tool store
+Topsoil supplier
+Tour operator
+Tourist attraction
+Tourist information center
+Toy manufacturer
+Toy store
+Tractor dealer
+Trade school
+Trailer dealer
+Trailer manufacturer
+Training centre
+Training provider
+Transcription service
+Translation service
+Transportation escort service
+Transportation infrastructure
+Transportation service
+Travel agency
+Tree service
+Tropical fish store
+Truck rental agency
+Truck stop
+Tutoring service
+Uniform store
+University
+Upholstery cleaning service
+Urgent care center
+Used clothing store
+Vacation home rental agency
+Vaporizer store
+Variety store
+Vegetarian restaurant
+Vehicle inspection service
+Veterans hospital
+Veterans organization
+Veterinarian
+Veterinary care
+Veterinary pharmacy
+Video production service
+Vintage clothing store
+Virtual office rental
+Visitor center
+Vitamin & supplements store
+Vocational school
+Volleyball court
+Volunteer organization
+Walk-in clinic
+Warehouse
+Warehouse club
+Warehouse store
+Waste management service
+Water park
+Wedding bakery
+Wedding chapel
+Wedding planner
+Wedding service
+Wedding venue
+Weight loss service
+Wellness center
+Wellness program
+Western apparel store
+Wheel alignment service
+Wholesale grocer
+Wholesaler
+Wildlife park
+Wildlife refuge
+Wildlife rescue service
+Window cleaning service
+Window installation service
+Window treatment store
+Wine store
+Women's clothing store
+Womens protection service
+Wood floor refinishing service
+Wood supplier
+Woodworking supply store
+Work clothes store
+Working women's hostel
+X-ray lab
+Youth club
+Youth group
