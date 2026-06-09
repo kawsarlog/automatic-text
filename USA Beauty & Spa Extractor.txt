@@ -1,0 +1,597 @@
+ATM
+Accountant
+Acrylic store
+Acupuncture clinic
+Acupuncturist
+Addiction treatment center
+Adult DVD store
+Adult education school
+Adult entertainment club
+Adventure sports
+Aerobics instructor
+African goods store
+After school program
+Aged care
+Airbrushing service
+Airbrushing supply store
+Allergist
+Alternative medicine
+Alternative medicine practitioner
+American restaurant
+Anesthesiologist
+Apprenticeship center
+Aquatic centre
+Army & navy surplus shop
+Aromatherapy class
+Aromatherapy service
+Aromatherapy supply store
+Art gallery
+Art museum
+Art school
+Art studio
+Art supply store
+Artist
+Artistic handicrafts
+Asian restaurant
+Astrologer
+Auto body shop
+Ayurvedic clinic
+BBQ area
+Bangle Shop
+Banquet hall
+Bar
+Bar PMU
+Barber school
+Barber shop
+Barber supply store
+Basketball court
+Bathroom supply store
+Beach clothing store
+Beach pavillion
+Beautician
+Beauty
+Beauty product supplier
+Beauty products vending machine
+Beauty products wholesaler
+Beauty salon
+Beauty school
+Beauty supply store
+Bed & breakfast
+Beer hall
+Beverage distributor
+Bikram yoga studio
+Billiards supply store
+Biofeedback therapist
+Bird watching area
+Birth center
+Blood testing service
+Boat rental service
+Body arts
+Body piercing shop
+Body shaping class
+Book store
+Botanica
+Boutique
+Brazilian pastelaria
+Brewery
+Bridal shop
+Brunch restaurant
+Business center
+Business management consultant
+Business park
+Business school
+Business to business service
+Cafe
+Cancer treatment center
+Candle store
+Cannabis club
+Cannabis store
+Car repair and maintenance service
+Care services
+Casino
+Catering food and drink supplier
+Certification agency
+Charcuterie
+Children's amusement center
+Children's camp
+Children's clothing store
+Children's party service
+Childrens club
+Childrens party buffet
+Childrens store
+Chinese medicine clinic
+Chiropractor
+Chocolate shop
+City park
+Clothing store
+Clothing supplier
+Club
+Coaching center
+Cocktail bar
+Coffee shop
+Cold storage facility
+College
+Comic book store
+Commercial agent
+Community center
+Community health centre
+Company registry
+Condominium complex
+Condominium rental agency
+Conference center
+Consultant
+Convenience store
+Convention center
+Corporate campus
+Corporate entertainment service
+Corporate gift supplier
+Corporate office
+Cosmetic dentist
+Cosmetic products manufacturer
+Cosmetic surgeon
+Cosmetics and perfumes supplier
+Cosmetics industry
+Cosmetics store
+Cosmetics wholesaler
+Costume jewelry shop
+Costume store
+Counselor
+Coworking space
+Craniosacral therapy
+Crypto ATM
+Cupcake shop
+Dance school
+Dating service
+Day care center
+Day spa
+Deaf service
+Debris removal service
+Delivery service
+Dental clinic
+Dentist
+Department store
+Dermatologist
+Diagnostic center
+Dietitian
+Discount store
+Distribution service
+Doctor
+Doula
+Drainage service
+Drug store
+Drug testing service
+Dude ranch
+E commerce agency
+E-commerce service
+Ear piercing service
+Eating disorder treatment center
+Education center
+Educational consultant
+Educational institution
+Educational supply store
+Educational testing service
+Electrical engineer
+Electrical installation service
+Electrolysis hair removal service
+Endocrinologist
+Energy equipment and solutions
+Entertainer
+Entertainment agency
+Equipment supplier
+Erotic massage
+Escape room center
+Espresso bar
+Event management company
+Event planner
+Event venue
+Executive suite rental agency
+Exercise equipment store
+Exhibition and trade centre
+Extended stay hotel
+Eye care center
+Eyebrow bar
+Eyelash salon
+Facial spa
+Family counselor
+Family practice physician
+Family restaurant
+Farm
+Farmers' market
+Farmstay
+Fashion accessories store
+Fashion designer
+Fencing salon
+Fertility clinic
+Fine dining restaurant
+Fireplace store
+Fish spa
+Fitness center
+Flavours fragrances and aroma supplier
+Floating market
+Flower designer
+Food court
+Foot bath
+Foot care
+Foot massage parlor
+Football club
+Fortune telling services
+Foster care service
+Fur service
+Furniture accessories
+Furniture manufacturer
+Furniture store
+Game store
+Garage door supplier
+Garden
+Gay & lesbian organization
+Gay sauna
+Gazebo builder
+General practitioner
+General store
+German language school
+Gift basket store
+Gift shop
+Golf club
+Golf course
+Golf driving range
+Graphic designer
+Greeting card shop
+Grill store
+Grocery store
+Group accommodation
+Gym
+Gynecologist
+Hair
+Hair care
+Hair extension technician
+Hair extensions supplier
+Hair removal service
+Hair replacement service
+Hair salon
+Hair transplantation clinic
+Hairdresser
+Hammam
+Hand surgeon
+Handbags shop
+Handicraft
+Hat shop
+Health
+Health and beauty
+Health and beauty shop
+Health consultant
+Health counselor
+Health food restaurant
+Health food store
+Health resort
+Health spa
+Heating contractor
+Hematologist
+Herb shop
+Herbal medicine store
+Herbalist
+Hiking guide
+Historical landmark
+Holistic medicine practitioner
+Home goods store
+Home hairdresser
+Home health care service
+Home help
+Home help service agency
+Homeopath
+Horseback riding service
+Hospice
+Hot bedstone spa
+Hot tub repair service
+Hot tub store
+Hotel
+Hyperbaric medicine physician
+Hypnotherapy service
+Image consultant
+Incense supplier
+Indoor cycling
+Indoor lodging
+Indoor swimming pool
+Inn
+Internet marketing service
+Internet service provider
+Internist
+Japanese inn
+Japanese restaurant
+Jeweler
+Jewelry designer
+Jewelry store
+Juice shop
+Karaoke
+Karaoke bar
+Kinesiologist
+Kinesiotherapist
+Kitchen furniture store
+Korean restaurant
+Laboratory
+Lactation service
+Lamination service
+Landscape architect
+Landscape designer
+Laser equipment supplier
+Laser hair removal service
+Laser tag center
+Learning center
+Leasing service
+Leisure centre
+Life coach
+Lighting consultant
+Lingerie store
+Live music venue
+Local medical services
+Locksmith
+Loctician service
+Lodge
+Lodging
+Lounge
+Lymph drainage therapist
+Make-up artist
+Manufacturer
+Marina
+Market
+Marketing agency
+Marriage or relationship counselor
+Masonic center
+Massage
+Massage parlor
+Massage school
+Massage spa
+Massage supply store
+Massage therapist
+Maternity store
+Mediation service
+Medical Center
+Medical certificate service
+Medical clinic
+Medical equipment manufacturer
+Medical group
+Medical laboratory
+Medical office
+Medical spa
+Medical supply store
+Meditation center
+Meditation instructor
+Meeting planning service
+Mehndi designer
+Men's clothing store
+Men's health physician
+Mental health clinic
+Mental health service
+Metaphysical supply store
+Midwife
+Mobile caterer
+Mobile hairdresser
+Mobile home dealer
+Modeling agency
+Money transfer service
+Motel
+Moving company
+Museum of space history
+Nail salon
+Native american goods store
+Natural goods store
+Naturopathic practitioner
+Needlework shop
+Neurologist
+Neurophysiologist
+Notary public
+Novelty store
+Nurse practitioner
+Nursing agency
+Nursing home
+Nutritionist
+Obstetrician-gynecologist
+Occupational health service
+Occupational therapist
+Office of a fair trade organization
+Office space rental agency
+Oil store
+Oncologist
+Organic
+Organic shop
+Oriental medicine clinic
+Orthopedic clinic
+Orthopedic surgeon
+Orthotics & prosthetics service
+Otolaryngology clinic
+Outdoor bath
+Outdoor furniture store
+Outdoor swimming pool
+Outlet mall
+Oxygen cocktail spot
+Oxygen equipment supplier
+Packaging machinery
+Pain control clinic
+Pain management physician
+Painting
+Painting studio
+Park
+Party equipment rental service
+Party planner
+Party store
+Patio enclosure supplier
+Pediatric dermatologist
+Perfume store
+Perinatal center
+Permanent make-up clinic
+Personal trainer
+Pet supply store
+Photo booth
+Photographer
+Photography service
+Photography studio
+Physical fitness program
+Physical therapist
+Physical therapy clinic
+Physician assistant
+Pickleball court
+Pilates studio
+Pizza takeaway
+Plastic injection molding service
+Plastic surgeon
+Plastic surgery clinic
+Plumber
+Plus size clothing store
+Podiatrist
+Pool cleaning service
+Pool hall
+Poster store
+Pregnancy care center
+Private tutor
+Professional and hobby associations
+Professional services
+Property management company
+Psychiatrist
+Psychic
+Psychologist
+Psychotherapist
+Public bath
+Public sauna
+Public swimming pool
+Racquetball club
+Raft trip outfitter
+Ranch
+Real estate rental agency
+Recreation
+Reflexologist
+Registered general nurse
+Rehabilitation center
+Reiki therapist
+Religious destination
+Religious goods store
+Repair service
+Resort hotel
+Restaurant
+Retail space rental agency
+Retreat center
+Rock shop
+Sauna
+Sauna club
+Sauna store
+Scale repair service
+Scenic spot
+School
+Sculptor
+Sculpture
+Self-catering accommodation
+Self-storage facility
+Service establishment
+Serviced accommodation
+Sexologist
+Shipping service
+Shoe store
+Shopping mall
+Ski club
+Ski resort
+Skin care
+Skin care clinic
+Skin care products vending machine
+Sleep clinic
+Snack bar
+Soapland
+Social club
+Soft drinks shop
+Spa
+Spa and health club
+Spa garden
+Specialized clinic
+Spice store
+Spiritist center
+Sports activity location
+Sports massage therapist
+Sports medicine clinic
+Sports medicine physician
+Sports nutrition store
+Spring
+Stationery store
+Steak house
+Store
+Stores and shopping
+Stylist
+Sugar shack
+Summer camp
+Surf shop
+Surgeon
+Surgical center
+Swimming facility
+Swimming pool
+Swimming pool contractor
+Swimming pool repair service
+Swimming pool supply store
+T-shirt company
+Tannery
+Tanning salon
+Tattoo and piercing shop
+Tattoo artist
+Tattoo removal service
+Tattoo shop
+Tea house
+Tea manufacturer
+Tea store
+Technical school
+Teeth whitening service
+Tennis club
+Thai massage shop
+Thai massage therapist
+Therapists
+Thermal baths
+Thread supplier
+Thrift store
+Tourist attraction
+Townhouse complex
+Trade school
+Training centre
+Transportation service
+Travel agency
+Travel clinic
+Tutoring service
+Urgent care center
+Urologist
+Urology clinic
+Vacation home rental agency
+Vascular surgeon
+Vegan restaurant
+Video production service
+Vintage clothing store
+Vitamin & supplements store
+Vocational school
+Walk-in clinic
+Water park
+Water purification company
+Water sports equipment rental service
+Water testing service
+Water treatment supplier
+Wax museum
+Wax supplier
+Waxing hair removal service
+Web hosting company
+Website designer
+Wedding photographer
+Wedding planner
+Wedding service
+Wedding store
+Wedding venue
+Weddings
+Weight loss service
+Weightlifting area
+Wellness center
+Wellness hotel
+Wellness program
+Wholesaler
+Wig shop
+Wine bar
+Wine store
+Winery
+Women's clothing store
+Women's health clinic
+Women's organization
+Women's personal trainer
+Wood stove shop
+X-ray lab
+Yoga instructor
+Yoga retreat center
+Yoga studio
